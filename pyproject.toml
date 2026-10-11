@@ -19,6 +19,7 @@ dependencies = [
     "pytest-html>=4.2.0",
     "python-dotenv>=1.2.3",
     "scikit-learn>=1.6.1",
+    "setuptools<81",
     "streamlit>=1.43.0",
     "streamlit-ace>=0.1.1",
     "uvicorn>=0.41.0",
